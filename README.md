@@ -31,7 +31,7 @@ fu.cloudns.be
 
 ##### 充值
 
-/minepay gui      支付宝暂不支持
+/minepay gui     （ 支付宝暂不支持）
 
 ****
 
