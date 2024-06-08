@@ -34,3 +34,5 @@ fu.cloudns.be
 
 
 ### qq群
+
+![](https://github.com/fishcpy/fishcpy.github.io/blob/main/2.jpg)
