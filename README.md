@@ -3,6 +3,7 @@
 
 
 简介
+
 fu.cloudns.be
 
 1.20.4-x
@@ -13,6 +14,7 @@ fu.cloudns.be
 
 
 指令
+
  FLY
 
 /fly 飞行
@@ -27,4 +29,4 @@ TP
 
 充值
 
-/minepay buy <礼包名>       支付宝暂不支持
+/minepay gui      支付宝暂不支持
