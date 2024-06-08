@@ -39,3 +39,6 @@ fu.cloudns.be
 #### 如果图片太大 ctrl+鼠标滚轮缩小
 
 ![](https://github.com/fishcpy/fishcpy.github.io/blob/main/2.jpg)
+
+###在线地图
+http://fu.cloudns.be:8123/#
