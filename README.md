@@ -25,6 +25,7 @@ fu.cloudns.be
 /res 领地所有命令
 
 TP
+
 /tpa 玩家名字 等待同意，即可tp
 
 充值
