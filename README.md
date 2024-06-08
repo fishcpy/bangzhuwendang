@@ -12,6 +12,7 @@ fu.cloudns.be
 不要开G！
 不要开G！
 
+****
 
 ### 指令
 
@@ -32,6 +33,7 @@ fu.cloudns.be
 
 /minepay gui      支付宝暂不支持
 
+****
 
 ### qq群
 #### 如果图片太大 ctrl+鼠标滚轮缩小
