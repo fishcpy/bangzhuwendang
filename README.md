@@ -43,3 +43,7 @@ fu.cloudns.be
 ### 在线地图
 
 http://fu.cloudns.be:8123/#
+
+#### bluemap
+
+##### bluemap由于卡顿等问题体验差劲，暂不使用
