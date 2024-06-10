@@ -23,7 +23,7 @@ fu.cloudns.be
  
 ##### 领地
 
-/res 领地所有命令
+/cl
 
 ##### TP
 
