@@ -16,10 +16,9 @@ fu.cloudns.be
 
 ### 指令
 
-##### FLY
+##### 金钱
 
-/fly 飞行
-/flyspeed （0.1-1）   飞行速度
+https://www.minebbs.com/resources/xconomy-bc-spigot-sponge.7410/
  
 ##### 领地
 
