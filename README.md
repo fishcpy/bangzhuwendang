@@ -23,6 +23,11 @@ https://www.minebbs.com/resources/xconomy-bc-spigot-sponge.7410/
 ##### 领地
 
 /cl
+/res
+
+##### 称号
+
+/plt shop
 
 ##### TP
 
