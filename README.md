@@ -28,9 +28,13 @@ https://www.minebbs.com/resources/xconomy-bc-spigot-sponge.7410/
 #####飞行
 
 /flyd                    开启关闭飞行日飞行         - bistro.fly.command.use
+
 /bistroflyday on         开启飞行日飞行             - bistro.fly.command.on
+
 /bistroflyday off        关闭飞行日飞行             - bistro.fly.command.off
+
 /bistroflyday reload     重载插件                  - bistro.fly.command.reload
+
 
 ##### 称号
 
